@@ -14,7 +14,6 @@ Answer 1: Grab, Waze
 
 Answer 2: Facebook, Whatsapp, Chrome, Youtube.
       Justification for the answer: Available in web application. Loading time is noticeable.
-
 Answer 3: Examples of mobile webs accessed by me: Italeem, Imaalum, Online banking transactions, Online shopping like lazada, Alibaba Express.
 
 Answer 4: Two types of apps we selected. Which are native and Hybrid. Hybrid apps designed to get compliences on mobile devices. The apps which are already existed as in the form of web app. Native apps are designed to get the apps not existed in webb app, plus these apps require different language to creat for different plateform.
