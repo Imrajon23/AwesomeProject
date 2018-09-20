@@ -1,0 +1,22 @@
+                                                                                    Names: 1. IMRAN AHMED (1527183)
+                                                                                                   2. TANVIR AHMED FORAZI (1432511)                                    
+
+Apps:
+1. Grab
+2. Waze
+3. Facebook
+4. Whatsapp
+5. Chrome
+6 Youtube
+
+Answer 1: Grab, Waze
+      Justification for the answer: It gives us very first real time location. Web application version not available. 
+
+Answer 2: Facebook, Whatsapp, Chrome, Youtube.
+      Justification for the answer: Available in web application. Loading time is noticeable.
+
+Answer 3: Examples of mobile webs accessed by me: Italeem, Imaalum, Online banking transactions, Online shopping like lazada, Alibaba Express.
+
+Answer 4: Two types of apps we selected. Which are native and Hybrid. Hybrid apps designed to get compliences on mobile devices. The apps which are already existed as in the form of web app. Native apps are designed to get the apps not existed in webb app, plus these apps require different language to creat for different plateform.
+ 
+Answer 5: Hybrid apps can be used in multiple platform whereas, Native can not. Native apps are Offline mode. Native app access with device hardware. Hybrid apps build on one Language for all plateform. While Native apps require different language for different platforms.
